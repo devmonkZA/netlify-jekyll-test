@@ -1,10 +1,8 @@
 ---
 layout : default
-
 title : About
-
 ---
 
 # About Page
 
-This is a test
+This is a test 1
